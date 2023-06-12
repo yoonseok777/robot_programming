@@ -1,0 +1,11 @@
+
+float32 lidar_dist # 라이다 거리
+int32 plus_arrow  
+int32 minus_arrow
+---
+#Result
+int32 count_node_bot_1 # 비글이 존재하는 칸의 넘버? 
+int32 count_node_bot_2
+---
+#Feedback
+int32 between_beagle12 # 비글의 칸수차이
